@@ -1,0 +1,40 @@
+[1]
+Bubble Sort: 0,00001430511
+Gnome Sort: 0,00001859664
+
+[2]
+Bubble Sort: 0,00001645088
+Gnome Sort: 0,00001978874
+
+[3]
+Bubble Sort: 0,00002074241
+Gnome Sort: 0,00002622604
+
+[4]
+Bubble Sort: 0,00001454353
+Gnome Sort: 0,00001740455
+
+[5]
+Bubble Sort: 0,00002789497
+Gnome Sort: 0,00001883506
+
+[6]
+Bubble Sort: 0,00001430511
+Gnome Sort: 0,00001859664
+
+[7]
+Bubble Sort: 0,00001478195
+Gnome Sort: 0,00001811981
+
+[8]
+Bubble Sort: 0,00001454353
+Gnome Sort: 0,00001764297
+
+[9]
+Bubble Sort: 0,00001502037
+Gnome Sort: 0,00001835823
+
+[10]
+Bubble Sort: 0,00001502037
+Gnome Sort: 0,00003147125
+
